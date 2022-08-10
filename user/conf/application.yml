@@ -1,0 +1,10 @@
+server:
+  port:8081
+datasource:
+  driver: mysql
+  host: 127.0.0.1
+  port: 3306
+  database: go_micro_user
+  username: root
+  password: qscdew
+  charset : utf8mb4
